@@ -44,8 +44,8 @@
       🔄 Projects in progress
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=api" width="50"/><br>
-      <b>APIs</b><br>
+      <img src="https://skillicons.dev/icons?i=postman" width="50"/>
+      <b>APIs (Postman)</b><br>
       🔄 In use
     </td>
     <td align="center">
