@@ -43,11 +43,11 @@
       <b>AI & Computer Vision</b><br>
       🔄 Projects in progress
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="50"/>
-      <b>APIs (Postman)</b><br>
-      🔄 In use
-    </td>
+   <td align="center">
+  <img src="https://skillicons.dev/icons?i=blender" width="50"/><br>
+  <b>FreeCAD</b><br>
+  ✅ Learned
+</td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=ros" width="50"/><br>
       <b>ROS 2</b><br>
