@@ -43,8 +43,8 @@
       <b>AI & Computer Vision</b><br>
       🔄 Projects in progress
     </td>
-   <td align="center">
-  <img src="https://skillicons.dev/icons?i=blender" width="50"/><br>
+  <td align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/FreeCAD_Logo.svg" width="50"/><br>
   <b>FreeCAD</b><br>
   ✅ Learned
 </td>
