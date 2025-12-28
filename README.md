@@ -44,7 +44,7 @@
       🔄 Projects in progress
     </td>
   <td align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/FreeCAD_Logo.svg" width="50"/><br>
+  <img src="https://skillicons.dev/icons?i=autocad" width="50"/><br>
   <b>FreeCAD</b><br>
   ✅ Learned
 </td>
