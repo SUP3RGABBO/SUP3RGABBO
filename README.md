@@ -3,14 +3,58 @@
 <!--
 **SUP3RGABBO/SUP3RGABBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hi, I'm Gabriele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 High school student with a strong interest in **robotics, AI, computer vision and space technologies**.  
+🛠 I enjoy building projects that combine **software, hardware and intelligent systems**.  
+🚀 Aspiring to work in **robotics or aerospace industries**, with a focus on autonomous systems and advanced engineering.
+
+<h2>🚀 Learning Roadmap & Skills</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+      <b>Python</b><br>
+      ✅ Learned
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=opencv" width="50"/><br>
+      <b>OpenCV</b><br>
+      🔄 Improving
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=arduino" width="50"/><br>
+      <b>Arduino</b><br>
+      ✅ Learned
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
+      <b>C++</b><br>
+      🟡 Basics
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="50"/><br>
+      <b>Raspberry Pi</b><br>
+      🔄 Advanced topics
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ai" width="50"/><br>
+      <b>AI & Computer Vision</b><br>
+      🔄 Projects in progress
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=api" width="50"/><br>
+      <b>APIs</b><br>
+      🔄 In use
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ros" width="50"/><br>
+      <b>ROS 2</b><br>
+      🟡 Just started
+    </td>
+  </tr>
+</table>
