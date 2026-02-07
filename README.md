@@ -79,20 +79,19 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-      <b>AI Voice Assistant</b><br>
+    <td align="center" style="padding: 20px; border: 1px solid #e0e0e0; border-radius: 12px;">
+      <b>AI Voice Assistant</b><br><br>
       Python + Raspberry Pi + ChatGPT API<br>
       🔄 In progress
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=esp32" width="50"/><br>
-      <b>Robotic Arm</b><br>
+    <td align="center" style="padding: 20px; border: 1px solid #e0e0e0; border-radius: 12px;">
+      <b>Robotic Arm</b><br><br>
       ESP32 + Servos + Sensors<br>
       🔄 In progress
     </td>
   </tr>
 </table>
+
 
 <hr>
 
