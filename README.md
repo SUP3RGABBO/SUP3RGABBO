@@ -6,8 +6,9 @@
 🛠 I enjoy building projects that combine **software, hardware and intelligent systems**.  
 🚀 Aspiring to work in **robotics or aerospace industries**, with a focus on autonomous systems and advanced engineering.
 
-<h2>🚀 Learning Roadmap & Skills</h2>
+<h2 align="center">🚀 Learning Roadmap & Skills</h2>
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -43,11 +44,11 @@
       <b>AI & Computer Vision</b><br>
       🔄 Projects in progress
     </td>
-  <td align="center">
-  <img src="https://skillicons.dev/icons?i=autocad" width="50"/><br>
-  <b>FreeCAD</b><br>
-  ✅ Learned
-</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=autocad" width="50"/><br>
+      <b>FreeCAD</b><br>
+      ✅ Learned
+    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=ros" width="50"/><br>
       <b>ROS 2</b><br>
@@ -55,6 +56,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 
 
