@@ -55,3 +55,48 @@
     </td>
   </tr>
 </table>
+
+
+
+
+<h2>🎥 My YouTube Channel</h2>
+<p>Here you can find all my projects, tutorials, and updates on robotics and AI:</p>
+<p align="center">
+  <a href="https://youtube.com/@gabriele_giovinazzo?si=Kk9fFHe1tUaDefW4" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="50"/><br>
+    <b>Subscribe to My Channel</b>
+  </a>
+</p>
+
+<hr>
+
+<h2>🤖 Ongoing Projects</h2>
+<p>These are my main projects currently in development:</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+      <b>AI Voice Assistant</b><br>
+      Python + Raspberry Pi + ChatGPT API<br>
+      🔄 In progress
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=arduino" width="50"/><br>
+      <b>Robotic Arm</b><br>
+      ESP32 + Servos + Sensors<br>
+      🔄 In progress
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>📌 More About Me</h2>
+<ul>
+  <li>💻 I love programming in Python, C++, and working with Arduino & Raspberry Pi.</li>
+  <li>🛠 I am specializing in AI, computer vision, and robotics.</li>
+  <li>🎬 I document my projects on <a href="https://youtube.com/@gabriele_giovinazzo?si=Kk9fFHe1tUaDefW4" target="_blank">YouTube</a>.</li>
+  <li>📂 You can find all my GitHub repositories <a href="https://github.com/SUP3RGABBO" target="_blank">here</a>.</li>
+</ul>
+
