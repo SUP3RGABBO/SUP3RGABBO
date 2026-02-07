@@ -65,14 +65,25 @@
 <p align="center">
   Here you can find all my projects, tutorials, and updates on robotics and AI.
 </p>
+
 <p align="center">
   <a href="https://youtube.com/@gabriele_giovinazzo?si=Kk9fFHe1tUaDefW4" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="80"/><br>
-    <b>Subscribe to My Channel</b>
+    <table align="center" style="border-collapse: collapse;">
+      <tr>
+        <td align="center" style="padding-right: 10px;">
+          <img src="https://skillicons.dev/icons?i=youtube" width="80"/>
+        </td>
+        <td align="left">
+          <b style="font-size:18px;">Subscribe to My Channel</b><br>
+          Follow my robotics & AI projects, tutorials, and progress videos!
+        </td>
+      </tr>
+    </table>
   </a>
 </p>
 
 <hr>
+
 
 <h2 align="center">🤖 Ongoing Projects</h2>
 <p align="center">
