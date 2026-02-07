@@ -68,18 +68,13 @@
 
 <p align="center">
   <a href="https://youtube.com/@gabriele_giovinazzo?si=Kk9fFHe1tUaDefW4" target="_blank">
-    <table align="center" style="border-collapse: collapse;">
-      <tr>
-        <td align="center" style="padding-right: 10px;">
-          <img src="https://skillicons.dev/icons?i=youtube" width="80"/>
-        </td>
-        <td align="left">
-          <b style="font-size:18px;">Subscribe to My Channel</b><br>
-          Follow my robotics & AI projects, tutorials, and progress videos!
-        </td>
-      </tr>
-    </table>
+    <img src="https://skillicons.dev/icons?i=youtube" width="80"/><br>
+    <b>Subscribe to My Channel</b>
   </a>
+</p>
+
+<p align="center" style="margin-top:5px;">
+  Follow my robotics & AI projects, tutorials, and progress videos!
 </p>
 
 <hr>
